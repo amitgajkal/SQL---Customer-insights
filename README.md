@@ -1,1 +1,1 @@
-# SQL---Customer-insights
+# SQL-Customer-insights
